@@ -3,7 +3,10 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📫 How to reach me **lakshmikolte12@gmail.com**
+- 📫 How to reach me **Gmail: lakshmikolte12@gmail.com** **LinkedIn: www.linkedin.com/in/lakshmi-kolte**
+
+Languages and Tools:
+android angular aws bootstrap c cplusplus css3 dart django figma git html5 java javascript kotlin linux mongodb mysql nestjs nodejs oracle pandas php postgresql python react
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
